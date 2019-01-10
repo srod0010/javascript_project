@@ -43,7 +43,8 @@
     * Day 4
         * Work on collision detection between pacman and ghosts
         * Work on power ups
+        * Start working on AI
     * Day 5/6
         * Render additional ghosts 
-        * Build AI - Algorithm for shortest path Dijkstra's algorithm?
+        * Build AI - find the relative direction of the player when the ghost reaches a junction and decide where to move from there
         * Add play button and end of game screen
